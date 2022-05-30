@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhavesh6088
-- 👀 I’m interested in ANDROID
+<!-- - 👀 I’m interested in ANDROID -->
 - 🌱 I’m currently learning ANDROID
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
